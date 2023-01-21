@@ -1,0 +1,35 @@
+*at first we will do some maping
+
+
+header
+ 	we will use wrapper to maintain the logo and the menu bar 
+
+ 	logor chiobir vitopre ancore tag diye index er html boshabo 
+
+	 	3 types of logo
+
+	 	iconic
+	 	mixed
+	 	text type
+
+	 trangition always main element ke dite hoy hover ke na diye 
+banner 
+feature
+services
+footer
+
+
+*defining layout
+
+
+ 			//we use nav for manu bar 
+ 			// nb #0f2656
+ 			// sb #008aff
+ 			// rd #f15767
+ 			//pink#fdebed
+ 			//gree#ebf9f4
+ 			//yell#fff7e8
+
+
+ 		h1 deaful font weight 700
+ 		top bottom mergin should be distributed sobar sheshe 
